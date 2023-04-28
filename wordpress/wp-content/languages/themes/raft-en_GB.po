@@ -1,0 +1,507 @@
+# Translation of Themes - Raft in English (UK)
+# This file is distributed under the same license as the Themes - Raft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-27 14:24:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Raft\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Raft is a lightweight, full-site-editing compatible (FSE) theme ready for your next website. Raft is a super fast, easily customizable, simple theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. Raft works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder or the Block Editor). Raft is also WooCommerce ready, responsive, RTL & translation ready. Learn more at https://themeisle.com/themes/raft/."
+msgstr "Raft is a lightweight, full-site-editing compatible (FSE) theme ready for your next website. Raft is a super fast, easily customisable, simple theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. Raft works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder or the Block Editor). Raft is also WooCommerce ready, responsive, RTL & translation ready. Learn more at https://themeisle.com/themes/raft/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Raft"
+msgstr "Raft"
+
+#: styles/wooden.json
+msgctxt "Style variation name"
+msgid "Wooden"
+msgstr "Wooden"
+
+#: styles/light-serif.json
+msgctxt "Style variation name"
+msgid "Light Serif"
+msgstr "Light Serif"
+
+#: styles/dark-fit.json
+msgctxt "Style variation name"
+msgid "Dark Fit"
+msgstr "Dark Fit"
+
+#: styles/blue-cream.json
+msgctxt "Style variation name"
+msgid "Blue Cream"
+msgstr "Blue Cream"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer with Columns"
+msgstr "Footer with Columns"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Centered"
+msgstr "Header Centered"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Readex Pro"
+msgstr "Readex Pro"
+
+#: inc/patterns/testimonial-columns.php
+msgctxt "Pattern title"
+msgid "Testimonial Columns"
+msgstr "Testimonial Columns"
+
+#: inc/patterns/team.php
+msgctxt "Pattern title"
+msgid "Team Section"
+msgstr "Team Section"
+
+#: inc/patterns/pricing-plans.php
+msgctxt "Pattern title"
+msgid "Pricing Plans"
+msgstr "Pricing Plans"
+
+#: inc/patterns/pricing-plans-inline-title.php
+msgctxt "Pattern title"
+msgid "Pricing Plans inline title"
+msgstr "Pricing Plans inline title"
+
+#: inc/patterns/posts-query-loop-2.php
+msgctxt "Pattern title"
+msgid "Posts Query loop 2"
+msgstr "Posts Query loop 2"
+
+#: inc/patterns/inverted-gallery-with-title.php
+msgctxt "Pattern title"
+msgid "Inverted gallery with title"
+msgstr "Inverted gallery with title"
+
+#: inc/patterns/horizontal-content-cards.php
+msgctxt "Pattern title"
+msgid "Horizontal content cards"
+msgstr "Horizontal content cards"
+
+#: inc/patterns/hero-with-columns.php
+msgctxt "Pattern title"
+msgid "Hero section with columns"
+msgstr "Hero section with columns"
+
+#: inc/patterns/content-columns-with-hero.php
+msgctxt "Pattern title"
+msgid "Content columns with hero"
+msgstr "Content columns with hero"
+
+#: inc/patterns/call-to-action-2.php
+msgctxt "Pattern title"
+msgid "Call to action 2"
+msgstr "Call to action 2"
+
+#: inc/patterns/alternating-feature-columns.php
+msgctxt "Pattern title"
+msgid "Alternating feature columns"
+msgstr "Alternating feature columns"
+
+#: inc/patterns/testimonial-columns.php:18
+msgid "Testimonial Columns"
+msgstr "Testimonial Columns"
+
+#: inc/patterns/team.php:16
+msgid "Team Section"
+msgstr "Team Section"
+
+#: inc/patterns/pricing-plans-inline-title.php:16
+#: inc/patterns/pricing-plans.php:16
+msgid "Pricing Plans"
+msgstr "Pricing Plans"
+
+#: inc/patterns/inverted-gallery-with-title.php:16
+msgid "Inverted gallery with title"
+msgstr "Inverted gallery with title"
+
+#: inc/patterns/horizontal-content-cards.php:26
+msgid "Horizontal content cards"
+msgstr "Horizontal content cards"
+
+#: inc/patterns/hero-with-columns.php:16
+msgid "Hero section with columns"
+msgstr "Hero section with columns"
+
+#: inc/patterns/content-columns-with-hero.php:16
+msgid "Content columns with hero"
+msgstr "Content columns with hero"
+
+#: inc/patterns/alternating-feature-columns.php:27
+msgid "Alternating feature columns"
+msgstr "Alternating feature columns"
+
+#: styles/purple-dawn.json
+msgctxt "Style variation name"
+msgid "Purple Dawn"
+msgstr "Purple Dawn"
+
+#: styles/night-owl.json
+msgctxt "Style variation name"
+msgid "Night Owl"
+msgstr "Night Owl"
+
+#: styles/green-corn.json
+msgctxt "Style variation name"
+msgid "Green corn"
+msgstr "Green corn"
+
+#: styles/garden-flow.json
+msgctxt "Style variation name"
+msgid "Garden flow"
+msgstr "Garden flow"
+
+#: styles/clean-cut.json
+msgctxt "Style variation name"
+msgid "Clean cut"
+msgstr "Clean cut"
+
+#: styles/blue-retro.json
+msgctxt "Style variation name"
+msgid "Blue retro"
+msgstr "Blue retro"
+
+#: styles/apple-clean.json
+msgctxt "Style variation name"
+msgid "Apple clean"
+msgstr "Apple clean"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Cart"
+msgstr "WooCommerce Cart"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Checkout"
+msgstr "WooCommerce Checkout"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Single Product"
+msgstr "WooCommerce Single Product"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Page - Only Content"
+msgstr "Blank Page - Only Content"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/light-serif.json
+#: styles/night-owl.json styles/purple-dawn.json styles/wooden.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Accent"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/light-serif.json
+#: styles/night-owl.json styles/purple-dawn.json styles/wooden.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "Foreground Alt"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/light-serif.json
+#: styles/night-owl.json styles/purple-dawn.json styles/wooden.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Background Alt"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/light-serif.json
+#: styles/night-owl.json styles/purple-dawn.json styles/wooden.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Foreground"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/light-serif.json
+#: styles/night-owl.json styles/purple-dawn.json styles/wooden.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Background"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Huge"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Small"
+
+#: inc/patterns/three-columns-features.php
+#: inc/patterns/two-columns-features.php
+msgctxt "Pattern title"
+msgid "Two columns of features"
+msgstr "Two columns of features"
+
+#: inc/patterns/posts-query-loop.php
+msgctxt "Pattern title"
+msgid "Posts Query loop"
+msgstr "Posts Query loop"
+
+#: inc/patterns/inverted-background.php
+msgctxt "Pattern title"
+msgid "Inverted background"
+msgstr "Inverted background"
+
+#: inc/patterns/image-gallery.php
+msgctxt "Pattern title"
+msgid "Image Gallery with title"
+msgstr "Image Gallery with title"
+
+#: inc/patterns/hero.php
+msgctxt "Pattern title"
+msgid "Hero Section"
+msgstr "Hero Section"
+
+#: inc/patterns/frequently-asked-questions.php
+msgctxt "Pattern title"
+msgid "Frequently asked questions"
+msgstr "Frequently asked questions"
+
+#: inc/patterns/cover-background.php
+msgctxt "Pattern title"
+msgid "Cover title with background"
+msgstr "Cover title with background"
+
+#: inc/patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call to action"
+msgstr "Call to action"
+
+#: inc/patterns/two-columns-features.php:21
+msgid "Two columns of features"
+msgstr "Two columns of features"
+
+#: inc/patterns/three-columns-features.php:31
+msgid "Three columns of features"
+msgstr "Three columns of features"
+
+#: inc/patterns/three-columns-features.php:26
+msgid "Powered by blocks"
+msgstr "Powered by blocks"
+
+#: inc/patterns/three-columns-features.php:22
+msgid "Built-in Patterns"
+msgstr "Built-in Patterns"
+
+#: inc/patterns/three-columns-features.php:18
+msgid "Style Variations"
+msgstr "Style Variations"
+
+#: inc/patterns/posts-query-loop-2.php:17 inc/patterns/posts-query-loop.php:18
+msgid "Unfortunately no posts were found"
+msgstr "Unfortunately no posts were found"
+
+#: inc/patterns/posts-query-loop-2.php:16 inc/patterns/posts-query-loop.php:17
+msgid "Posts Query loop"
+msgstr "Posts Query loop"
+
+#: inc/patterns/posts-query-loop.php:16
+msgid "Go to post"
+msgstr "Go to post"
+
+#: inc/patterns/inverted-background.php:21
+msgid "Inverted background"
+msgstr "Inverted background"
+
+#: inc/patterns/image-gallery.php:29
+msgid "View more photos"
+msgstr "View more photos"
+
+#: inc/patterns/image-gallery.php:28
+msgid "Add your text, and replace with your images"
+msgstr "Add your text, and replace with your images"
+
+#: inc/patterns/image-gallery.php:27
+msgid "Image Gallery with title"
+msgstr "Image Gallery with title"
+
+#: inc/patterns/hero.php:26
+msgid "Hero section"
+msgstr "Hero section"
+
+#: inc/patterns/hero.php:20
+msgid "Block-based websites made simple."
+msgstr "Block-based websites made simple."
+
+#: inc/patterns/frequently-asked-questions.php:34
+msgid "See More FAQs"
+msgstr "See More FAQs"
+
+#: inc/patterns/frequently-asked-questions.php:33
+msgid "Have questions? We have the answers!"
+msgstr "Have questions? We have the answers!"
+
+#: inc/patterns/frequently-asked-questions.php:32
+msgid "Frequently asked questions"
+msgstr "Frequently asked questions"
+
+#: inc/patterns/cover-background.php:24
+msgid "Cover title with background"
+msgstr "Cover title with background"
+
+#: inc/patterns/cover-background.php:20
+msgid "This is a button"
+msgstr "This is a button"
+
+#: inc/patterns/cover-background.php:18
+msgid "This is a cover with a background image"
+msgstr "This is a cover with a background image"
+
+#: inc/patterns/call-to-action-2.php:16 inc/patterns/call-to-action.php:16
+msgid "Call to action"
+msgstr "Call to action"
+
+#: inc/Core.php:90
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: inc/Block_Styles.php:33
+msgid "Pills"
+msgstr "Pills"
+
+#: inc/Block_Patterns.php:62
+msgid "Raft Patterns"
+msgstr "Raft Patterns"
+
+#: inc/Admin.php:110 inc/patterns/alternating-feature-columns.php:18
+#: inc/patterns/call-to-action-2.php:35 inc/patterns/hero-with-columns.php:17
+#: inc/patterns/hero.php:22 inc/patterns/horizontal-content-cards.php:16
+msgid "Learn More"
+msgstr "Learn More"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:105
+msgid "Install & Activate %s"
+msgstr "Install & Activate %s"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:103
+msgid "Activate %s"
+msgstr "Activate %s"
+
+#: inc/Admin.php:93
+msgid "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+msgstr "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:89
+msgid "Power up your website building experience with %s!"
+msgstr "Power up your website building experience with %s!"
+
+#: inc/Admin.php:83
+msgid "Otter Blocks preview"
+msgstr "Otter Blocks preview"
+
+#: inc/Admin.php:75
+msgid "Done"
+msgstr "Done"
+
+#: inc/Admin.php:74
+msgid "Installing"
+msgstr "Installing"
+
+#: inc/Admin.php:73
+msgid "Activating"
+msgstr "Activating"
+
+#. translators: %s: commands to run the theme
+#: functions.php:105
+msgid "You appear to be running the Raft theme from source code. Please finish installation by running %s."
+msgstr "You appear to be running the Raft theme from source code. Please finish installation by running %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "upgrading PHP to the latest version"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Raft's minimal requirement is PHP%2$s."
+msgstr "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Raft's minimal requirement is PHP%2$s."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeisle.com/themes/raft/"
+msgstr "https://themeisle.com/themes/raft/"
